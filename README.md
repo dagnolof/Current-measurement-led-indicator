@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=PSzkaSy5lHY
 
 Current Clamp 100A
 https://shop.mchobby.be/en/various-sensors/728-ac-current-sensor-100a-non-invasive-3232100007284.html
+
+Link to my youtube video for this project 
+https://studio.youtube.com/video/4qsGFCkcXn4/edit
